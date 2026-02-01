@@ -67,10 +67,10 @@
     <h1>Niharika will you be my Valentine?</h1>
 
     <button id="yes" onclick="showImage()">Yes 💖</button>
-    <button id="no" onmouseover="moveNo()">No 💔</button>
+    <button id="no" onmouseover="movesNo()">No 💔</button>
 
     <div id="imageBox">
-        <img src="valentine.jpg" alt="Valentine Image">
+        <img src="WhatsApp Image 2026-02-01 at 1.14.35 PM.jpeg" alt="Valentine Image">
     </div>
 </div>
 
